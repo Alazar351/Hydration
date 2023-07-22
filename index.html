@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Hydration Reminder</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Hydration Reminder</h1>
+
+    <input
+      type="number"
+      id="hours"
+      name="hours"
+      placeholder="Hours"
+      min="1"
+      max="24"
+    />
+    <input
+      type="number"
+      id="amount"
+      name="amount"
+      placeholder="Liters"
+      min="1"
+    />
+    <button type="button" id="liter" name="liter" disabled>Liter</button>
+    <button type="button" id="oz" name="oz">Oz</button>
+    <div class="start">
+      <button type="button" id="start" name="start">Start</button>
+      <button type="button" id="pause" name="pause">Pause</button>
+      <button type="button" id="reset" name="reset">Reset</button>
+    </div>
+
+    <div id="display" name="display"></div>
+
+    <button type="button" id="ifreq">Infrequent</button
+    ><button type="button" id="nfreq" disabled>Normal</button>
+    <button type="button" id="freq">Frequent</button>
+
+    <div class="credit">
+      <a href="https://www.flaticon.com/free-icons/clean" title="clean icons"
+        >Designer of the logo</a
+      >
+    </div>
+  </body>
+  <script src="popup.js"></script>
+</html>

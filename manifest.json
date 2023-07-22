@@ -1,0 +1,15 @@
+{
+  "name": "Hydration Reminder",
+  "version": "1.1",
+  "manifest_version": 3,
+  "description": "Extension that alerts you to drink water according to the goals that you set",
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  },
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "permissions": ["alarms", "storage", "notifications"]
+}

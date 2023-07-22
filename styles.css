@@ -1,0 +1,33 @@
+html {
+  width: 300px;
+  height: 275px;
+  background-color: #74d3ffa2;
+}
+h1 {
+  margin-left: 25px;
+}
+input {
+  width: 120px;
+  margin-right: 10px;
+  margin-left: 4px;
+  color: black;
+}
+
+button {
+  cursor: pointer;
+  background-color: #0483cc;
+  border: none;
+  color: white;
+  padding: 7px 17px;
+  margin: 4px 2px;
+  border-radius: 25px;
+}
+
+button:disabled {
+  background-color: #0c007c;
+  cursor: default;
+}
+
+input:focus {
+  box-shadow: 2px 2px 3px blue;
+}
