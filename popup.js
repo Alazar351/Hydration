@@ -34,7 +34,7 @@ chrome.storage.local.get(
     } = result;
 
     display.textContent = displayMessage;
-    console.log(`start up state of currentlyActive is ${currentlyActive}`);
+  
     active(currentlyActive);
     if (alarmAlert) {
       displayDrinkAmt = alarmAlert;
@@ -46,15 +46,15 @@ chrome.storage.local.get(
       drinkT = alarmTimer;
     }
     if (storedHours) {
-      console.log("hours here");
+     
       hours.value = storedHours;
     }
     if (storedAmount) {
-      console.log("amount here");
+   
       amount.value = storedAmount;
     }
     if (selectedUnit == "fluid ounces") {
-      console.log("fluid ounces here");
+      
       if (currentlyActive == "pending") {
         enableElement(liter);
         disableElement(oz);
