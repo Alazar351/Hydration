@@ -6,7 +6,7 @@ Reminds you to drink water to reach your goals in the time defined
 
 
 ## Installation
-
+This is a chrome extension. To download a local version follow these steps.
 Install Hydration with ⬇️
 
 ```bash
@@ -40,3 +40,8 @@ After clicking start, all buttons except pause and reset will be disabled. When 
 ## Contact
 
 If you have any questions or feedback, feel free to contact me at alazar.lema351@gmail.com
+
+## Credit
+Source of the Icon
+https://www.flaticon.com/free-icons/clean 
+
