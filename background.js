@@ -24,6 +24,8 @@ const handleOnStart = (prefs) => {
       {
         displayMessage:
           "Something went wrong! Please press reset to begin again",
+      }, () => {
+        intervalCount = 1;
       }
     );
   } else if (storedHours && storedAmount) {
