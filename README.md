@@ -25,7 +25,8 @@ After installing all files
 Begin by entering the amount of hours that are available to drink water.
 Followed by the amount of water you want to drink in Liters or Fluid Ounces.
 
-![image](https://github.com/Alazar351/Hydration/assets/121960308/5b1de3bb-c165-47f3-8617-6e9f117a0a5f)
+![image](https://github.com/Alazar351/Hydration/assets/121960308/85f5e326-d9f0-4aaa-8199-0f99cc3fcc1a)
+
 
 
 There are 3 frequencies you can select. Default is the normal frequency. You will be reminded a total of 8 times before you reach your goal. The infrequent option will remind you 4 times while the frequent option will remind you 12 times. 
