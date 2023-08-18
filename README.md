@@ -7,14 +7,10 @@ Reminds you to drink water to reach your goals in the time defined
 
 ## Installation
 This is a chrome extension. To download a local version follow these steps.
-Install Hydration with ⬇️
+Install Hydration by downloading the zip file ⬇️
 
-```bash
-  https://github.com/Alazar351/Hydration.git
 
-```
-
-After installing all files
+After installing and unzipping all files
 - Open Chrome Extensions (chrome://extensions/)
 - Turn on developer mode on the top right
 - Click Load unpacked
