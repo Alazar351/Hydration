@@ -20,11 +20,18 @@ After installing all files
 - Click Load unpacked
 - Select the folder containing files
 ## Usage
+![image](https://github.com/Alazar351/Hydration/assets/121960308/d8c27381-ea27-4555-bbfd-6caf380ff42c)
 
 Begin by entering the amount of hours that are available to drink water.
 Followed by the amount of water you want to drink in Liters or Fluid Ounces.
 
+![image](https://github.com/Alazar351/Hydration/assets/121960308/5b1de3bb-c165-47f3-8617-6e9f117a0a5f)
+
+
 There are 3 frequencies you can select. Default is the normal frequency. You will be reminded a total of 8 times before you reach your goal. The infrequent option will remind you 4 times while the frequent option will remind you 12 times. 
+
+![image](https://github.com/Alazar351/Hydration/assets/121960308/eeaba0a7-2fc4-401d-bfde-2a8f25ba23a2)
+
 
 After clicking start, all buttons except pause and reset will be disabled. When finished you will need to press reset to begin again.
 
