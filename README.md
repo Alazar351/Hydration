@@ -36,6 +36,8 @@ There are 3 frequencies you can select. Default is the normal frequency. You wil
 
 After clicking start, all buttons except pause and reset will be disabled. When finished you will need to press reset to begin again.
 
+When the timer is finished you'll receive a chrome notification.
+
 
 ## Features
 
